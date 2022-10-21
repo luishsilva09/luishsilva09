@@ -21,7 +21,7 @@
 <a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><a/>
 
 <div>
-  <a href="https://github.com/leandro-eduardo">
+  <a href="https://github.com/luishsilva09">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=leandro-eduardo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=15px"/>  
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-eduardo&layout=compact&langs_count=10&hide=GLSL,ShaderLab&theme=gotham&border_radius=15px"/>
 </div> 

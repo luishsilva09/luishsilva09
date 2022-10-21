@@ -22,8 +22,8 @@
 
 <div>
   <a href="https://github.com/luishsilva09">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=leandro-eduardo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=15px"/>  
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-eduardo&layout=compact&langs_count=10&hide=GLSL,ShaderLab&theme=gotham&border_radius=15px"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=luishsilva09&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=15px"/>  
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishsilva09&layout=compact&langs_count=10&hide=GLSL,ShaderLab&theme=gotham&border_radius=15px"/>
 </div> 
 <!--
 **luishsilva09/luishsilva09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

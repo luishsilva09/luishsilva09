@@ -1,4 +1,4 @@
-### Hi there,i’m Luís Henrique
+### Hi there, I’m Luís Henrique
 
 
 #### Some facts about me:

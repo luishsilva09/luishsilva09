@@ -1,30 +1,33 @@
 ### Hi there, my name is Luís Henrique
 
 
+#### Some facts about me:
+- 🌱 I’m currently learning
+- I want to travel the whole :earth_americas:
+- Rugby is my sport :rugby_football: 
 
-### 🌱 I’m currently learning
-
+<!-- icons -->
 ### Languages and Tools:
 
 
 [![My Skills](https://skills.thijs.gg/icons?i=css,html,js,react,nodejs,mongodb,postgres,ts,git,github,vscode&theme=dark)](https://skills.thijs.gg)
 
 <br/>
-
-#### Some facts about me:
-- I want to travel the whole :earth_americas:
-- Rugby is my sport :rugby_football:
-
-#### 📫 How to reach me:
-
-<a href='https://www.linkedin.com/in/luishenriquesilva/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-<a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><a/>
-
+<!-- github status -->
 <div>
   <a href="https://github.com/luishsilva09">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=luishsilva09&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=15px"/>  
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishsilva09&layout=compact&langs_count=10&hide=GLSL,ShaderLab&theme=gotham&border_radius=15px"/>
 </div> 
+
+
+<!-- social icons-->
+#### 📫 How to reach me:
+
+<a href='https://www.linkedin.com/in/luishenriquesilva/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><a/>
+
+
 <!--
 **luishsilva09/luishsilva09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

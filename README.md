@@ -13,6 +13,13 @@
 [![My Skills](https://skills.thijs.gg/icons?i=css,html,js,react,nodejs,mongodb,postgres,ts,git,github,vscode&theme=dark)](https://skills.thijs.gg)
 
 <br/>
+
+<!-- social icons-->
+#### 📫 How to reach me:
+
+<a href='https://www.linkedin.com/in/luishenriquesilva/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><a/>
+  
 <!-- github status -->
 <div>
   <a href="https://github.com/luishsilva09">
@@ -21,11 +28,7 @@
 </div> 
 
 
-<!-- social icons-->
-#### 📫 How to reach me:
 
-<a href='https://www.linkedin.com/in/luishenriquesilva/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-<a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><a/>
 
 
 <!--

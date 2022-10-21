@@ -2,7 +2,7 @@
 
 
 #### Some facts about me:
-- 🌱 I’m currently learning
+- I’m currently learning 🌱 
 - I want to travel the whole :earth_americas:
 - Rugby is my sport :rugby_football: 
 

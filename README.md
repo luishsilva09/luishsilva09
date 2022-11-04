@@ -11,11 +11,16 @@
 
 #### Front:
 
-[![My Skills](https://skills.thijs.gg/icons?i=css,html,js,react&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=css,html,js,react,styledcomponents&theme=dark)](https://skills.thijs.gg)
 
-#### Back
+#### Back:
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,postgres,ts,git,github,vscode&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,postgres,prisma,ts,express,jest&theme=dark)](https://skills.thijs.gg)
+
+#### Tools:
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,vscode,docker,aws,linux&theme=dark)](https://skills.thijs.gg)
+
 
 <br/>
 

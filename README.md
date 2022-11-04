@@ -9,8 +9,13 @@
 <!-- icons -->
 ### Languages and Tools:
 
+#### Front:
 
-[![My Skills](https://skills.thijs.gg/icons?i=css,html,js,react,nodejs,mongodb,postgres,ts,git,github,vscode&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=css,html,js,react&theme=dark)](https://skills.thijs.gg)
+
+#### Back
+
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,postgres,ts,git,github,vscode&theme=dark)](https://skills.thijs.gg)
 
 <br/>
 

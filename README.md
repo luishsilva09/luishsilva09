@@ -1,13 +1,17 @@
-### Hi there, I’m Luís Henrique
+### Oi, sou Luís Henrique
 
+Tenho como um objetivo\sonho gerar um impacto no mundo e nas pessoas por meio de tecnologia.
 
-#### Some facts about me:
-- I’m currently learning 🌱 
-- I want to travel the whole :earth_americas:
-- Rugby is my sport :rugby_football: 
+Tenho uma formação como técnico em eletrônica mesmo gostando muito do mundo do hardware o software foi onde me encontrei, me aproximei mais com o desenvolvimento web onde pude ver a oportunidade de alcançar ainda mais pessoas.
+
+#### Alguns fatos sobre mim:
+- Constante evolução 
+- Quero conecer o mundo :earth_americas:
+- Apaixonado por Rugby :rugby_football: 
+- Quebra-Cabeças são o que me faz gastar grande parte do meu tempo livre
 
 <!-- icons -->
-### Languages and Tools:
+### Linguagens e ferramentas:
 
 #### Front:
 
@@ -17,7 +21,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,postgres,prisma,ts,express,jest&theme=dark)](https://skills.thijs.gg)
 
-#### Tools:
+#### Ferramentas:
 
 [![My Skills](https://skills.thijs.gg/icons?i=git,github,vscode,docker,aws,linux&theme=dark)](https://skills.thijs.gg)
 
@@ -25,7 +29,7 @@
 <br/>
 
 <!-- social icons-->
-#### 📫 How to reach me:
+#### 📫 Como me encontrar:
 
 <a href='https://www.linkedin.com/in/luishenriquesilva/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 <a href='mailto:luishsilva09@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><a/>

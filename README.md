@@ -13,11 +13,11 @@ Tenho uma formação como técnico em eletrônica mesmo gostando muito do mundo 
 <!-- icons -->
 ### Linguagens e ferramentas:
 
-#### Front:
+#### Front-end:
 
 [![My Skills](https://skills.thijs.gg/icons?i=css,html,js,react,styledcomponents&theme=dark)](https://skills.thijs.gg)
 
-#### Back:
+#### Back-end:
 
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,postgres,prisma,ts,express,jest&theme=dark)](https://skills.thijs.gg)
 

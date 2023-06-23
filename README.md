@@ -39,11 +39,9 @@ Tenho uma formação como técnico em eletrônica mesmo gostando muito do mundo 
 <a href='mailto:luishsilva09@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><a/>
   
 <!-- github status -->
-<div>
-  <a href="https://github.com/luishsilva09">
-  <img height="190em" src="https://github-readme-stats-dqu7d77tw-luishsilva09.vercel.app/api?username=luishsilva09&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=15px"/>  
-  <img height="190em" src="https://github-readme-stats-dqu7d77tw-luishsilva09.vercel.app/api/top-langs/?username=luishsilva09&layout=compact&langs_count=10&hide=GLSL,ShaderLab&theme=gotham&border_radius=15px"/>
-</div> 
+<!--![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luishsilva09&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishsilva09&hide_progress=true)-->
+ 
 
 
 

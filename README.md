@@ -10,7 +10,7 @@ Tenho uma formação como técnico em eletrônica mesmo gostando muito do mundo 
 
 #### Alguns fatos sobre mim:
 - Constante evolução 
-- Quero conecer o mundo :earth_americas:
+- Quero conhecer o mundo :earth_americas:
 - Apaixonado por Rugby :rugby_football: 
 - Quebra-Cabeças são o que me faz gastar grande parte do meu tempo livre
 

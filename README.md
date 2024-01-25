@@ -23,7 +23,7 @@ Tenho uma formação como técnico em eletrônica mesmo gostando muito do mundo 
 
 #### Back-end:
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,postgres,prisma,ts,express,jest,java,spring&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,postgres,prisma,ts,express,jest,java,spring,python&theme=dark)](https://skills.thijs.gg)
 
 #### Ferramentas:
 

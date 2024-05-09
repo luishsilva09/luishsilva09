@@ -19,15 +19,16 @@ Tenho uma formação como técnico em eletrônica mesmo gostando muito do mundo 
 
 #### Front-end:
 
-[![My Skills](https://skills.thijs.gg/icons?i=css,html,js,react,styledcomponents&theme=dark)](https://skills.thijs.gg)
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,react)](https://skillicons.dev)
 
 #### Back-end:
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,postgres,prisma,ts,express,jest,java,spring,python&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgres,prisma,ts,express,jest,java,spring,python)](https://skillicons.dev)
 
 #### Ferramentas:
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,vscode,docker,aws,linux&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,linux)](https://skillicons.dev)
 
 
 <br/>

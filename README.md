@@ -1,66 +1,36 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+### Oi, sou o Luís Henrique Silva
 
-### Oi, sou Luís Henrique
+Desenvolvedor Full Stack em São José dos Campos, SP. Portfólio, telas e decisões técnicas dos projetos em **[devlhs.com.br](https://devlhs.com.br)**.
 
-Tenho como um objetivo\sonho gerar um impacto no mundo e nas pessoas por meio de tecnologia.
+#### O que faço hoje
 
-Tenho uma formação como técnico em eletrônica mesmo gostando muito do mundo do hardware o software foi onde me encontrei, me aproximei mais com o desenvolvimento web onde pude ver a oportunidade de alcançar ainda mais pessoas.
+- **Desenvolvedor Full Stack Júnior na Nube** (desde jun/2025; estagiário de jan/2024 a jun/2025): Python, Zope e PostgreSQL.
+- **Responsável de TI voluntário do Grupo Suçuarana** (ONG, desde mai/2025): fiz sozinho o site e o painel admin ([sussuarana.org.br](https://sussuarana.org.br)) e mantenho a infra: Docker em VPS, Nginx com TLS e CSP, Cloudflare, deploy contínuo e monitoramento.
+- Antes da área de software, 5 anos na Johnson & Johnson como operador de produção especializado, em ambiente regulado.
 
-#### Alguns fatos sobre mim:
-- Constante evolução 
-- Quero conhecer o mundo :earth_americas:
-- Apaixonado por Rugby :rugby_football: 
-- Quebra-Cabeças são o que me faz gastar grande parte do meu tempo livre
+#### Projetos em destaque
 
-<!-- icons -->
-### Linguagens e ferramentas:
+Os repositórios são privados. Cada página no site mostra telas e as decisões técnicas do projeto.
 
-#### Front-end:
+- **[Grupo Suçuarana](https://devlhs.com.br/projetos/site-gs/)**: site institucional e painel admin em produção (Next.js 15, Prisma, PostgreSQL, NextAuth, Docker, Nginx, Cloudflare R2).
+- **[coin](https://devlhs.com.br/projetos/coin/)**: finanças pessoais com dinheiro em centavos inteiros e fatura de cartão imutável após o fechamento (Next.js 16, Drizzle, PostgreSQL, Vitest + PGlite).
+- **[NutriTrack](https://devlhs.com.br/projetos/nutritrack/)**: acompanhamento nutricional com a tabela TACO e testes de integração de isolamento entre usuários (Next.js 16, Prisma 7, Better Auth, Zod).
+- **[Maratona](https://devlhs.com.br/projetos/maratona/)**: rastreador de séries com sync incremental da TVMaze e rate limit por token bucket (Next.js, Redis, BullMQ, Drizzle, Prometheus/Grafana).
+- **Plataforma de deploy do homelab**: workflow reutilizável no GitHub Actions publicando no GHCR, com deploy que faz backup, migration, healthcheck e rollback automático.
 
+#### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,react)](https://skillicons.dev)
+- **Linguagens:** Python, TypeScript, JavaScript, SQL, Bash
+- **Back-end e front-end:** FastAPI, Zope, Node.js, Next.js, React, Tailwind
+- **Dados:** PostgreSQL, Redis, Prisma, Drizzle
+- **Infra:** Docker, GitHub Actions, Linux, Nginx, Cloudflare, Prometheus, Grafana
 
-#### Back-end:
+#### Formação
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgres,prisma,ts,express,jest,java,spring,python)](https://skillicons.dev)
+Tecnólogo em Análise e Desenvolvimento de Sistemas (Anhanguera, 2023–2025) · Bootcamp Full Stack (Driven, 2022) · Técnico em Eletrônica
 
-#### Ferramentas:
+#### Contato
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,linux)](https://skillicons.dev)
-
-
-<br/>
-
-<!-- social icons-->
-#### 📫 Como me encontrar:
-
-<a href='https://www.linkedin.com/in/luishenriquesilva/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-<a href='mailto:luishsilva09@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><a/>
-  
-<!-- github status -->
-<!--![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luishsilva09&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishsilva09&hide_progress=true)-->
- 
-
-
-
-
-
-<!--
-**luishsilva09/luishsilva09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+[![Site](https://img.shields.io/badge/devlhs.com.br-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devlhs.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishenriquesilva)
+[![E-mail](https://img.shields.io/badge/luishsilva09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luishsilva09@gmail.com)
